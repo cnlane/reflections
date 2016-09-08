@@ -1,0 +1,2 @@
+git creates a .git file when you initialize a repository using 'git init'
+This allows git to set up initial tracking abilities.
